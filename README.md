@@ -13,4 +13,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielcomin&show_icons=true&theme=dracula&locale=en&layout=compact" alt="danielcomin" width="90%" height="180"/>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielcomin&show_icons=true&theme=dracula&locale=en" alt="danielcomin" height="180" width="89%"/>
+
